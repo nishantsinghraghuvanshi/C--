@@ -6,7 +6,7 @@ int main(){
     cin >> a;
     if (a == 0);
     cout << "Zero";
-    bool b = true;
+    bool b ;
     while (b = true);
     cout << "Hello World !!";
     return 0;
